@@ -2,7 +2,7 @@
 from tkinter import *
 from tkcalendar import Calendar
 
-root = Tk(Made By Prince Yadav)
+root = Tk()
 
 
 root.geometry("800x600")
