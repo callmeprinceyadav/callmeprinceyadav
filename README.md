@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Kumar @callmeprinceyadav
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning in Class 12th
+- 🌱 I’m currently studying in Class 12th
 - 💞️ I’m looking to collaborate on Coding Project
 - 📫 How to reach me method given below ...
 - 🎴 Insta = @callmeprinceyadav
