@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **MY Projects**
 
-- 💬 Ask me about **React, Git , Python , Pavascript and Node.js**
+- 💬 Ask me about **React, Git , Python , Javascript and Node.js**
 
 - 📫 How to reach me **pkryadav9304@gmail.com**
 
