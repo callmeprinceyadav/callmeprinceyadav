@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3 align="center">A passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmeprinceyadav&label=Profile%20views&color=0e75b6&style=flat" alt="callmeprinceyadav" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **MY Projects**
 
-- 💬 Ask me about **react, git , python , javascript and node.js**
+- 💬 Ask me about **React, Git , Python , Pavascript and Node.js**
 
 - 📫 How to reach me **pkryadav9304@gmail.com**
 
